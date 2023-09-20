@@ -24,3 +24,5 @@ Brief description about the approach of the project, design of the model and cer
 
 ![Image](./img/model_design/model1.png)
 ![Image](./img/model_design/model2.png)
+
+**DeepGenBind** https://github.com/HNUBioinformatics/DeepGenBind.
