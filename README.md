@@ -22,5 +22,5 @@ Brief description about the approach of the project, design of the model and cer
 
 ## Model designs
 
-![Image](./img/model_design/model_1.png)
-![Image](./img/model_design/model_2.png)
+![Image](./img/model_design/model1.png)
+![Image](./img/model_design/model2.png)
