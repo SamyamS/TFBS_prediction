@@ -15,6 +15,7 @@ Brief description about the approach of the project, design of the model and cer
     - Recreated the DeepGenBind model and achieved an 82% accuracy.
     
 **3. Model Performance Validation:**
+    
     - Evaluated model accuracy, achieving a validation accuracy of approximately 80%.
     - Demonstrated consistency with the performance of the original DeepGenBind model within the dataset.
 
